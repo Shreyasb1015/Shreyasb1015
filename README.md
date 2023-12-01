@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasb1015&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasb1015" /> </p>
 
-- 🔭 I’m currently working on [Cs50 Course](https://cs50.harvard.edu/x/2023/)
-
 - 🌱 I’m currently learning **Computer Engineering**
 
 - 📫 How to reach me **bagweshreyas1015@gmail.com**
